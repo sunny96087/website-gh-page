@@ -1,1 +1,0 @@
-import{_ as e,f as o,g as c,s}from"./index-jKRvd87S.js";const t={},n=s("h1",{class:""},"BackendFooter.vue",-1),a=[n];function r(_,d){return o(),c("div",null,a)}const l=e(t,[["render",r]]);export{l as default};

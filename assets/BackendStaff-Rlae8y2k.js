@@ -1,1 +1,0 @@
-import{_ as e,f as c,g as s,s as t}from"./index-jKRvd87S.js";const a={},n=t("h1",{class:""},"BackendStaff.vue",-1),o=[n];function _(r,f){return c(),s("div",null,o)}const l=e(a,[["render",_]]);export{l as default};
